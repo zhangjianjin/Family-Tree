@@ -1,5 +1,5 @@
-<?php
 
+<?php
 namespace App\Http\Controllers;
 
 use App\Exceptions\InvalidRequestException;
