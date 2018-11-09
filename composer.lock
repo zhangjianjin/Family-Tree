@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "941babcb29cc329420fba131579ba4e9",
+    "content-hash": "0ecd018ff97463e47288a563047e4e86",
     "packages": [
         {
             "name": "caouecs/laravel-lang",
@@ -1579,7 +1579,7 @@
         },
         {
             "name": "overtrue/laravel-lang",
-            "version": "3.0.13",
+            "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/overtrue/laravel-lang.git",
@@ -5359,7 +5359,9 @@
     ],
     "aliases": [],
     "minimum-stability": "stable",
-    "stability-flags": [],
+    "stability-flags": {
+        "overtrue/laravel-lang": 20
+    },
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
